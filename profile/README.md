@@ -1,6 +1,11 @@
-<img alt="Illinois logo" src="BlockI-Logo-Full-Color-RGB.png" height="100" align="left"/>
+<img alt="Illinois logo" src="BlockI-Logo-Full-Color-RGB.png" height="200" align="left"/>
 
-### Welcome to the Computational Multiphase Flow Research Group at AE-UIUC!
+### Welcome to the Computational Multiphase Flow Research Group at AE-UIUC!<br/>
+💧 We study multiphase flows with applications to aerospace and beyond.<br/>
+💻 For that, we write all sorts of codes.<br/>
+🎓 We are based at the University of Illinois Urbana-Champaign.<br/>
+👨🏻‍💼 The group leader is led by [Fabien Evrard](https://aerospace.illinois.edu/directory/profile/fevrard).
+
 
 <!--
 
