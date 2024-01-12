@@ -4,7 +4,7 @@
 💧 We study multiphase flows with applications to aerospace and beyond.<br/>
 💻 For that, we write all sorts of computer codes.<br/>
 🎓 We are based at the University of Illinois Urbana-Champaign.<br/>
-👨🏻‍💼 Our group is led by [Prof. Fabien Evrard](https://aerospace.illinois.edu/directory/profile/fevrard).
+👨🏻‍💼 Our group is led by [Prof. Fabien Evrard](https://aerospace.illinois.edu/directory/profile/fevrard) at the Department of Aerospace Engineering.
 
 
 <!--
