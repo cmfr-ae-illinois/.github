@@ -1,6 +1,6 @@
 <img alt="Illinois logo" src="BlockI-Logo-Full-Color-RGB.png" height="175" align="left"/>
 
-### Welcome to the Computational Multiphase Flow Research Group at AE-UIUC!<br/>
+### Welcome to the [Computational Multiphase Flow Research Group at AE-UIUC](https://cmfr.aerospace.illinois.edu/)!<br/>
 💧 We study multiphase flows with applications to aerospace and beyond.<br/>
 💻 For that, we write all sorts of computer codes.<br/>
 🎓 We are based at the University of Illinois Urbana-Champaign.<br/>
