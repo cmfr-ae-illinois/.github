@@ -1,4 +1,4 @@
-<img alt="Illinois logo" src="BlockI-Logo-Full-Color-RGB.png" height="175" align="left"/>
+[<img alt="Illinois logo" src="BlockI-Logo-Full-Color-RGB.png" height="175" align="left"/>](https://cmfr.aerospace.illinois.edu/)
 
 ### Welcome to the [Computational Multiphase Flow Research Group at AE-UIUC](https://cmfr.aerospace.illinois.edu/)!<br/>
 💧 We study multiphase flows with applications to aerospace and beyond.<br/>
